@@ -1,6 +1,6 @@
 ﻿# Dicionario
 
-## Projeto final do curso EuProgramo Front-End 2 da Programaria
+## Projeto final do curso "EuProgramo Front-End 2" da Programaria
 
 Este projeto é um dicionário que lista as mulheres negras que fozeram e ainda fazem parte da história do Brasil e mundo.
 
