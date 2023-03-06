@@ -2,6 +2,6 @@
 
 ## Projeto final do curso "EuProgramo Front-End 2" da Programaria
 
-Este projeto é um dicionário que lista as mulheres negras que fozeram e ainda fazem parte da história do Brasil e mundo.
+Este projeto é um dicionário que lista as mulheres negras que fizeram e ainda fazem parte da história do Brasil e mundo.
 
-Feito com HTML, CSS e Javascript
+Feito com HTML, CSS e Javascript.
