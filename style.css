@@ -11,23 +11,26 @@ body {
 }
 
 header {
-    height: 100px;
+    height: 150px;
     border-bottom: 3px solid #000;
     margin-bottom: 40px;
     color: #591902;
     background-color: #D96704;
+    
 }
 
 @media (max-width: 768px) {
     header {
          margin-bottom: 20px;
-         height: 200px;
+         height: 300px;
     }
 }
 
 h1 {
     text-transform: uppercase;
     margin-bottom: 0;
+    text-align: center;
+    padding: 2rem;
 }
 
 @media (max-width: 768px) {
@@ -115,3 +118,24 @@ footer {
     text-align: center ;
     background-color: #D96704;
   }
+
+  .redes-sociais{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top:20px;
+    font-size: 1.4rem;
+    padding: 10px;
+}
+
+.navegacao__icon {
+    margin-top: 15px;
+    width: 30px ;
+    height: 30px;
+}
+
+.subtitulo{
+    text-align: center;
+}
